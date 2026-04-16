@@ -1,4 +1,4 @@
-# Project-2024
+# Terraform Project-2024
 terraform-lambda-cron
 
 I developed a terraform script to deploy an AWS lambda function that is triggered by a cron job every 5 minutes. The solution should ensure that both the lambda function code and the terraform state file are securely stored in separate S3 buckets.
